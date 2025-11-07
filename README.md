@@ -22,7 +22,7 @@ You can read the original AWS case study [here](https://aws.amazon.com/blogs/mac
 | File | Description |
 |------|--------------|
 | `Aviva_Case_Study_Summary.pdf` | Written summary of the case study, covering company background, challenges, cloud services, technical analysis, and business impact. |
-| `Aviva_Presentation.pdf` | Slide deck presenting key findings, architecture overview, and measurable business results. |
+| `aviva_x_aws.pdf` | Slide deck presenting key findings, architecture overview, and measurable business results. |
 
 ## 🕒 Project Duration
 - **Total Duration:** 2 Days  
